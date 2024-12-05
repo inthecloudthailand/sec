@@ -25,7 +25,6 @@
 }
 }
 
-/*
 .md-header--shadow {
   box-shadow: 0 0 .2rem #ffffffff, 0 .2rem .4rem #ffff;
   transition: transform .25s cubic-bezier(.1,.7,.1,1), box-shadow .25s;
@@ -37,4 +36,4 @@
   --md-footer-fg-color--lighter: #526cfe;
   --md-footer-bg-color: #ffff;
   --md-footer-bg-color--dark: #ffff;
-}*/
+}
