@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://inthecloud.co.th/cog/</loc>
+         <lastmod>2024-12-05</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://inthecloud.co.th/cog/ms/defender/Pilot%20and%20deploy%20Microsoft%20Defender%20for%20Identity/</loc>
+         <lastmod>2024-12-05</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://inthecloud.co.th/cog/ms/entraid/Microsoft%20Entra%20hybrid%20join%20targeted%20deployment/</loc>
+         <lastmod>2024-12-05</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+</urlset>
